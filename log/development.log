@@ -27,3 +27,83 @@ Rendering rescues/layout (not_found)
 Processing PagesController#home (for 127.0.0.1 at 2010-07-25 00:14:01) [GET]
 Rendering pages/home
 Completed in 9ms (View: 7, DB: 0) | 200 OK [http://localhost/pages/home]
+
+
+Processing PagesController#about (for 127.0.0.1 at 2010-07-25 00:50:13) [GET]
+Rendering pages/about
+Completed in 6ms (View: 5, DB: 0) | 200 OK [http://localhost/pages/about]
+
+
+Processing PagesController#about (for 127.0.0.1 at 2010-07-25 00:59:26) [GET]
+Rendering pages/about
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://localhost/pages/about]
+
+
+Processing PagesController#home (for 127.0.0.1 at 2010-07-25 00:59:32) [GET]
+Rendering pages/home
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://localhost/pages/home]
+
+
+Processing PagesController#contact (for 127.0.0.1 at 2010-07-25 00:59:43) [GET]
+Rendering pages/contact
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://localhost/pages/contact]
+
+
+Processing PagesController#home (for 127.0.0.1 at 2010-07-25 01:04:09) [GET]
+Rendering pages/home
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://localhost/pages/home]
+
+
+Processing PagesController#home (for 127.0.0.1 at 2010-07-25 01:04:51) [GET]
+Rendering pages/home
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://localhost/pages/home]
+
+
+Processing PagesController#home (for 127.0.0.1 at 2010-07-25 01:05:01) [GET]
+Rendering pages/home
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://localhost/pages/home]
+
+
+Processing PagesController#contact (for 127.0.0.1 at 2010-07-25 01:05:54) [GET]
+Rendering pages/contact
+Completed in 6ms (View: 5, DB: 0) | 200 OK [http://localhost/pages/contact]
+
+
+Processing PagesController#contact (for 127.0.0.1 at 2010-07-25 01:06:17) [GET]
+Rendering pages/contact
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/pages/contact]
+
+
+Processing PagesController#contact (for 127.0.0.1 at 2010-07-25 01:06:27) [GET]
+Rendering pages/contact
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/pages/contact]
+
+
+Processing PagesController#home (for 127.0.0.1 at 2010-07-25 01:10:26) [GET]
+Rendering template within layouts/application
+Rendering pages/home
+Completed in 11ms (View: 9, DB: 0) | 200 OK [http://localhost/pages/home]
+
+
+Processing PagesController#home (for 127.0.0.1 at 2010-07-25 01:10:30) [GET]
+Rendering template within layouts/application
+Rendering pages/home
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/pages/home]
+
+
+Processing PagesController#home (for 127.0.0.1 at 2010-07-25 01:11:35) [GET]
+Rendering template within layouts/application
+Rendering pages/home
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://localhost/pages/home]
+
+
+Processing PagesController#home (for 127.0.0.1 at 2010-07-25 01:12:20) [GET]
+Rendering template within layouts/application
+Rendering pages/home
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/pages/home]
+
+
+Processing PagesController#contact (for 127.0.0.1 at 2010-07-25 01:12:24) [GET]
+Rendering template within layouts/application
+Rendering pages/contact
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://localhost/pages/contact]
