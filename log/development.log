@@ -344,3 +344,12 @@ Rendered layouts/_stylesheets (0.6ms)
 Rendered layouts/_header (0.4ms)
 Rendered layouts/_footer (0.7ms)
 Completed in 9ms (View: 7, DB: 0) | 200 OK [http://localhost/pages/home]
+
+
+Processing PagesController#home (for 127.0.0.1 at 2010-07-25 16:23:28) [GET]
+Rendering template within layouts/application
+Rendering pages/home
+Rendered layouts/_stylesheets (1.9ms)
+Rendered layouts/_header (1.8ms)
+Rendered layouts/_footer (0.7ms)
+Completed in 160ms (View: 157, DB: 0) | 200 OK [http://localhost/pages/home]
